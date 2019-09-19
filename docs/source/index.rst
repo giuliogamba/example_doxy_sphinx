@@ -5,7 +5,7 @@ Introduction
 Example
 
 .. toctree::
-   :maxdepth: 2
+
 
 
   library/example
