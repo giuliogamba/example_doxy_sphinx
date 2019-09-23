@@ -31,8 +31,8 @@ author = 'GG'
 # The full version, including alpha/beta/rc tags
 release = '0.1'
 
-sys.path.append("/home/osboxes/virt_env_docs/lib/python3.6/site-packages/breathe/")
-breathe_projects = {"myproject": "/home/osboxes/example_doxy_sphinx/docs/doxygen/xml/"}
+
+breathe_projects = {"myproject": "../doxygen/xml/"}
 breathe_default_project = "myproject"
 
 # -- General configuration ---------------------------------------------------
