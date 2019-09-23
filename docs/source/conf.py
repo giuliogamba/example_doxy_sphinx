@@ -32,7 +32,7 @@ author = 'GG'
 release = '0.1'
 
 
-breathe_projects = {"myproject": "../doxygen/xml/"}
+breathe_projects = {"myproject": "./doxygen/xml/"}
 breathe_default_project = "myproject"
 
 # -- General configuration ---------------------------------------------------
